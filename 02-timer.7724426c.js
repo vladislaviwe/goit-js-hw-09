@@ -1,0 +1,2 @@
+!function(){var e={timer:document.querySelector(".timer"),fieldValue:document.querySelectorAll(".value"),fieldLabel:document.querySelectorAll(".label")};e.timer.style.display="flex",e.fieldValue.forEach((function(e){e.style.cssText="font-size: 20px; font-weight: bold; color: tomato;"})),e.fieldLabel.forEach((function(e){e.style.cssText="margin-right: 5px"}))}();
+//# sourceMappingURL=02-timer.7724426c.js.map
